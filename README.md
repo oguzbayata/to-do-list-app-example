@@ -6,5 +6,5 @@ proje dizininde 'json-server --watch db.json' çalıştır
 
 ##To-to-list-app build app (Adım-2)
 'npm install'
-'npm server'
+'npm serve'
 
