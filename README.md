@@ -1,7 +1,7 @@
 Görev Listesi Oluşturma Örnek Angular Uygulaması
 
 ##Json-Server (Adım-1)
-'npm install -g json-server' yükle
+'npm install -g json-server' yükle ve
 proje dizininde 'json-server --watch db.json' çalıştır
 
 ##To-to-list-app build app (Adım-2)
