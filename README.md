@@ -1,5 +1,9 @@
 Görev Listesi Oluşturma Örnek Angular Uygulaması
 
+-Görev ekleme,güncelleme ve silme
+-json-server paketi sayesinde json dosyasına kayıt eder
+
+## Uygulamayı çalıştırmak için :
 ## Json-Server (Adım-1)
 
 ```
