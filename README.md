@@ -17,6 +17,6 @@ json-server --watch db.json
 ```
 npm install
 ng build
-ng run
+ng serve
 ```
 
